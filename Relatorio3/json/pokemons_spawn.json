@@ -1,0 +1,287 @@
+[
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8ed45"
+        },
+        "id": 1,
+        "num": "001",
+        "name": "Bulbasaur",
+        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": "0.71 m",
+        "weight": "6.9 kg",
+        "candy": "Bulbasaur Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [
+            1.58
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ],
+        "next_evolution": [
+            {
+                "num": "002",
+                "name": "Ivysaur"
+            },
+            {
+                "num": "003",
+                "name": "Venusaur"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8ed4b"
+        },
+        "id": 7,
+        "num": "007",
+        "name": "Squirtle",
+        "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+        "type": [
+            "Water"
+        ],
+        "height": "0.51 m",
+        "weight": "9.0 kg",
+        "candy": "Squirtle Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.58,
+        "avg_spawns": 58,
+        "spawn_time": "04:25",
+        "multipliers": [
+            2.1
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "next_evolution": [
+            {
+                "num": "008",
+                "name": "Wartortle"
+            },
+            {
+                "num": "009",
+                "name": "Blastoise"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8ed91"
+        },
+        "id": 77,
+        "num": "077",
+        "name": "Ponyta",
+        "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.99 m",
+        "weight": "30.0 kg",
+        "candy": "Ponyta Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.51,
+        "avg_spawns": 51,
+        "spawn_time": "02:50",
+        "multipliers": [
+            1.48,
+            1.5
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "078",
+                "name": "Rapidash"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8ed98"
+        },
+        "id": 84,
+        "num": "084",
+        "name": "Doduo",
+        "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": "1.40 m",
+        "weight": "39.2 kg",
+        "candy": "Doduo Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.52,
+        "avg_spawns": 52,
+        "spawn_time": "05:10",
+        "multipliers": [
+            2.19,
+            2.24
+        ],
+        "weaknesses": [
+            "Electric",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "085",
+                "name": "Dodrio"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8ed9e"
+        },
+        "id": 90,
+        "num": "090",
+        "name": "Shellder",
+        "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
+        "type": [
+            "Water"
+        ],
+        "height": "0.30 m",
+        "weight": "4.0 kg",
+        "candy": "Shellder Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.52,
+        "avg_spawns": 52,
+        "spawn_time": "07:39",
+        "multipliers": [
+            2.65
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "next_evolution": [
+            {
+                "num": "091",
+                "name": "Cloyster"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8eda8"
+        },
+        "id": 100,
+        "num": "100",
+        "name": "Voltorb",
+        "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
+        "type": [
+            "Electric"
+        ],
+        "height": "0.51 m",
+        "weight": "10.4 kg",
+        "candy": "Voltorb Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.65,
+        "avg_spawns": 65,
+        "spawn_time": "04:36",
+        "multipliers": [
+            2.01,
+            2.02
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "next_evolution": [
+            {
+                "num": "101",
+                "name": "Electrode"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8edac"
+        },
+        "id": 104,
+        "num": "104",
+        "name": "Cubone",
+        "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
+        "type": [
+            "Ground"
+        ],
+        "height": "0.41 m",
+        "weight": "6.5 kg",
+        "candy": "Cubone Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.61,
+        "avg_spawns": 61,
+        "spawn_time": "01:51",
+        "multipliers": [
+            1.67
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "next_evolution": [
+            {
+                "num": "105",
+                "name": "Marowak"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640b5100cbf8b0a94fb8edb3"
+        },
+        "id": 111,
+        "num": "111",
+        "name": "Rhyhorn",
+        "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "height": "0.99 m",
+        "weight": "115.0 kg",
+        "candy": "Rhyhorn Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.63,
+        "avg_spawns": 63,
+        "spawn_time": "03:21",
+        "multipliers": [
+            1.91
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "next_evolution": [
+            {
+                "num": "112",
+                "name": "Rhydon"
+            }
+        ]
+    }
+]
