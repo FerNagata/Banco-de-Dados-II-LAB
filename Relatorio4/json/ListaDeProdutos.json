@@ -12,7 +12,7 @@
         "quantidade": 6
     },
     {
-        "_id": "Refrigerante",
+        "_id": "Mussarela",
         "quantidade": 4
     },
     {
@@ -20,7 +20,7 @@
         "quantidade": 4
     },
     {
-        "_id": "Mussarela",
+        "_id": "Refrigerante",
         "quantidade": 4
     },
     {
@@ -32,11 +32,11 @@
         "quantidade": 4
     },
     {
-        "_id": "Ma\u00e7\u00e3",
+        "_id": "Sabonete",
         "quantidade": 3
     },
     {
-        "_id": "Sabonete",
+        "_id": "Ma\u00e7\u00e3",
         "quantidade": 3
     },
     {
@@ -44,7 +44,7 @@
         "quantidade": 2
     },
     {
-        "_id": "Tomate",
+        "_id": "Feij\u00e3o",
         "quantidade": 2
     },
     {
@@ -52,7 +52,7 @@
         "quantidade": 2
     },
     {
-        "_id": "Feij\u00e3o",
+        "_id": "Tomate",
         "quantidade": 2
     }
 ]
